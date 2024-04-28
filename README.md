@@ -20,7 +20,7 @@
 
 <h3 align="left">Testing:</h3>
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="cypress" width="40" height="35"/> </a> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg" alt="cypress" width="40" height="35"/> </a> 
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" alt="cypress" width="40" height="35"/> </a> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30"/> </a> 
 
 
